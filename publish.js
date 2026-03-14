@@ -50,7 +50,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://91nantong.github.io',
+	'https://91nantong11111.github.io',
 ];
 var foreverUrls = [
     'https://91nt.net',JumpPage
