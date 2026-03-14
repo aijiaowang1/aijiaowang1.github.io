@@ -35,7 +35,7 @@ function getRandomString() {
 var emails = [
     '91nantonggay@gmail.com'
 ];
-kjklj.xyz
+
 var urls=[
 	'mbeysnhe.cc',
 ];
@@ -50,7 +50,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://91nantong11111.github.io',
+	'https://91nantong.github.io',
 ];
 var foreverUrls = [
     'https://91nt.net',JumpPage
