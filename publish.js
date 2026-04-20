@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'rfjndae.cc',
+	'ghridrxx.cc',
 ];
                                                                                                                   
 var JumpPage="https://aijiaox.com";
