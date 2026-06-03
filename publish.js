@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'fedvullg.com',
+	'obvoipxt.com',
 ];
                                                                                                                   
 var JumpPage="https://aijiaox.com";
