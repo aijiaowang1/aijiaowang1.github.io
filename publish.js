@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'obvoipxt.com',
+	'egapmmfg.cc',
 ];
                                                                                                                   
 var JumpPage="https://aijiaox.com";
