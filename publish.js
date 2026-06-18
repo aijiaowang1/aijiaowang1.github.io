@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'egapmmfg.cc',
+	'pduudrb.cc',
 ];
                                                                                                                   
 var JumpPage="https://aijiaox.com";
