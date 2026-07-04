@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'psweakiw.cc',
+	'yyiejwave.com',
 ];
                                                                                                                   
 var JumpPage="https://aijiaox.com";
