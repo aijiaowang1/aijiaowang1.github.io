@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'eohuyknv.com',
+	'tnmuodihk.com',
 ];
                                                                                                                   
 var JumpPage="https://aijiaox.com";
