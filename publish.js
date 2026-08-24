@@ -50,7 +50,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://aijiaowang1.github.io/',
+	'https://aijiaowang1.github.io',
 ];
 var foreverUrls = [
     'https://aijiaox.net',JumpPage
