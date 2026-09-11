@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'zintecczo.cc',
+	'ftngyxek.cc',
 ];
                                                                                                                   
 var JumpPage="https://aijiaox.com";
