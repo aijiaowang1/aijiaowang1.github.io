@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'wh95u08v.cc',
+	'3zz9mzif.cc',
 ];
                                                                                                                   
 var JumpPage="https://aijiaox.com";
@@ -121,7 +121,7 @@ window.onload = function () {
     var logoElem = document.createElement('div');
     logoElem.setAttribute('class', 'brand');
     logoElem.setAttribute('id', 'logo');
-    logoElem.innerHTML = ' <img src="logo.png"  width="180" style="margin-bottom: 10px;"/>'
+    logoElem.innerHTML = ' <img src="logo.png"  width="300" style="margin-bottom: 10px;"/>'
     mainElem.appendChild(logoElem);
 
     //收藏  ‘<br /> \n <br /> <br /> 按 <font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路
